@@ -1,3 +1,3 @@
 # Movie app
 
-React JS Fundamentals Coursenp
+React JS Fundamentals Course
